@@ -61,7 +61,7 @@
 -	Created KPIs and different charts 
 -	Merge all pivot tables into one dashboard and applied slicers to make dynamic
 -	Dashboard
-   - < a href="https://github.com/shoninel/Sales-Insight-Dashboard/blob/main/Sales%20dashboard-Key%20Insights.png">Key_insights Dashbaord </a>
+   - <a href="https://github.com/shoninel/Sales-Insight-Dashboard/blob/main/Sales%20dashboard-Key%20Insights.png" > Key_insights Dashbaord </a>
    - < a href="https://github.com/shoninel/Sales-Insight-Dashboard/blob/main/Sales%20Dashboard-Profit%20Analysis.png" >Profit_Analysis Dashboard </a>
    - <a href="https://github.com/shoninel/Sales-Insight-Dashboard/blob/main/Sales%20Dashboard%20Perfomance%20Insights.png">Perfomance_insights Dashboard </a>
 
