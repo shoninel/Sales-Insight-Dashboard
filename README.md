@@ -15,4 +15,4 @@
   - Successful dashboard, which should help to take decisions and increase sales
   -  Reduce that manual work in Data gathering and save 20% business time and reinvest it to value added activity
 - Intecative Dashboard:
-  - <a href=”https://github.com/shoninel/Sales-Insight-Dashboard/blob/main/Sales_insights.pdf”> Dashboard</a>
+  - <a href=”https://github.com/shoninel/Sales-Insight-Dashboard/blob/main/Sales_insights.pdf” > Dashboard </a>
