@@ -1,2 +1,3 @@
-# Sales-Insight-Dashboard
-Developed a Sales insight dashboard that includes KPIs &amp; Key Insights, Profit analysis  and Performance Insights .Used SQL for Data collection and Exploration . Power BI to clean, Preprocess and Dashboard creation.
+# Sales-Insight-Dashboard(using SQL & Power BI)
+## Problem Statement:
+- Computer hardware and peripheral manufacturer supplies hardware devices to many companiesTheir business is growing sand need to get an insight about his growth and from his sales data instead of huge number of data
