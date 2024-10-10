@@ -17,7 +17,7 @@
 - Intecative Dashboard:
   - <a href="https://github.com/shoninel/Sales-Insight-Dashboard/blob/main/Sales_insights.pdf" > Dashboard </a>
 ## Process
-- Data Analysis & Exploration using SQL:
+## Data Analysis & Exploration using SQL:
  - select * from sales.transactions;
  - select * from sales.markets;
  - select * from sales.products;
@@ -53,7 +53,7 @@
 -- To find out the total sales ( using INR\r and USD\r)
 - select sum(sales_amount ) from sales.transactions where year(order_date)='2020' and currency='INR\r' or currency='USD\r';
 
-# Data Transformation using Power BI
+## Data Transformation using Power BI
 -	Verified data for any missing values and anomalies, and handled the missing values
 -	Ensured that data is consistent and clean with respect to data type data format and values used
 -	Created custom columns to get a desirable dimensions and measures
