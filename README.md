@@ -56,14 +56,23 @@
 ## Data Transformation using Power BI
 -	Verified data for any missing values and anomalies, and handled the missing values
 -	Ensured that data is consistent and clean with respect to data type data format and values used
+-	Built Data model in power BI
+- <a href="https://github.com/shoninel/Sales-Insight-Dashboard-SQL-Power-Bi-/blob/main/Data%20Model.png"> Data Model</a>
 -	Created custom columns to get a desirable dimensions and measures
 -	Created measures using DAX formulas
 -	Created KPIs and different charts 
 -	Merge all pivot tables into one dashboard and applied slicers to make dynamic
 -	Dashboard
-   - <a href="https://github.com/shoninel/Sales-Insight-Dashboard/blob/main/Sales%20dashboard-Key%20Insights.png" > Key_insights Dashbaord </a>
-   - <a href="https://github.com/shoninel/Sales-Insight-Dashboard/blob/main/Sales%20Dashboard-Profit%20Analysis.png" > Profit_Analysis Dashboard </a>
-   - <a href="https://github.com/shoninel/Sales-Insight-Dashboard/blob/main/Sales%20Dashboard%20Perfomance%20Insights.png" > Perfomance_insights Dashboard </a>
+   - <a href="https://github.com/shoninel/Sales-Insight-Dashboard-SQL-Power-Bi-/blob/main/Sales_insights.pbix">Dashbaord </a>
+   - Key Insights
+![Sales dashboard-Key Insights](https://github.com/user-attachments/assets/f2e0f802-c8fd-422d-9e92-32fc6e2bf078)
+
+   - Profit_Analysis Dashboard
+![Sales Dashboard-Profit Analysis](https://github.com/user-attachments/assets/0365b0f8-6a15-45b0-87d4-ff57b4c0af9b)
+
+   - Perfomance_insights Dashboard
+![Sales Dashboard Perfomance Insights](https://github.com/user-attachments/assets/a09663e7-9db1-4005-85dd-90a9ae587a8e)
+
 
 
 
