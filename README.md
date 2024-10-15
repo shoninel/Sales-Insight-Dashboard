@@ -61,7 +61,7 @@
 -	Created custom columns to get a desirable dimensions and measures
 -	Created measures using DAX formulas
 -	Created KPIs and different charts 
--	Merge all pivot tables into one dashboard and applied slicers to make dynamic
+-	Merged all pivot tables into one dashboard and applied slicers to make dynamic
 -	Dashboard
    - <a href="https://github.com/shoninel/Sales-Insight-Dashboard-SQL-Power-Bi-/blob/main/Sales_insights.pbix">Dashbaord </a>
    - Key Insights
